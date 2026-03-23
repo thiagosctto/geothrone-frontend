@@ -1,0 +1,1 @@
+#1 -> Criado projeto ReactNative com Expo para o frontend com template typescript
