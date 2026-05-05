@@ -14,5 +14,6 @@
 ![alt text](image-2.png)
 
 <br/>
-#5 -> Introdução a documentação de funções com JSDoc
+#5 -> Introdução a documentação de funções com JSDoc<br/>
+
 ![alt text](image-3.png)<br/>
